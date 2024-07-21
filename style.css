@@ -33,7 +33,7 @@ body{
     padding: 7%;
     
     color: rgb(187, 207, 178);
-    height: 99%;
+    height: 100%;
     width: 33%;
     background-color: rgb(25, 44, 189);
      border-radius: 10px; 
@@ -56,23 +56,23 @@ body{
 .two{
    
     margin-top: 30px;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
 }
 .three{
-    color: rgb(211, 188, 55);
+    color: rgb(100, 218, 46);
     width: 100%;
     padding-left: 0px;
     text-transform: capitalize;
     margin-top: 60px;
     font-size: 12px;
 }
-.box{
-     width: 13em;  
+.four{
+     width: 16em;  
     
     height: 11em;
-    background-color:  #090b70;
-     margin-left: -10px; 
+    background-color:  #191b91;
+     margin-left: -33px; 
     
     margin-top: 30px;  
    
@@ -80,11 +80,14 @@ body{
 }
 
   .five{
-    color: rgb(109, 214, 197);
+    color: white;
     font-size: 12px;
-    border-bottom: 0.6px solid rgb(179, 85, 185);
-    padding: 10px 20px  ;
-    border-radius: 5px;
+     border-bottom: 0.3px solid rgb(100, 218, 46); 
+    padding-top: 20px;
+    padding-bottom: 17px;
+    text-align: center;
+    margin-left: 9px;
+    margin-right: 9px ;
 
 } 
 
@@ -112,11 +115,11 @@ img {
 .sidebar{
    
     
-    margin-left: 50px;
-    color: #021104;
-   
+    margin-left: 39px;
+    color: black;
+   font-weight: bold;
    padding: 14px;
-
+font-size: 20px;
 }
 
 .link{
@@ -170,7 +173,7 @@ img {
 }
 
 .E{
-    padding-top: 6px 6%;
+    padding-top: 10px ;
     margin-left: 50px;
     margin-top: 2%;
 }
